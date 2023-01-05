@@ -2,4 +2,5 @@ Menguji Pemahaman Github
 - Branch
 - Merge
 - Fork
+- Web Hosting
 - Persiapan belajar git
