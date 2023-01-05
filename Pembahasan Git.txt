@@ -3,6 +3,7 @@ Materi pembelajaran git :
 - git merge conflict
 - git remote
   > tutorial membuat remote
-  > jalur push dan pull pada remote
-- git multiple remotes
+  > jalur push dan pull
+  > multiple remotes
 - git ignore
+- git rebase
